@@ -48,10 +48,10 @@ label:before {
     
 }
 
-label[for*='1']:before { content: '\f107'; }
+/* label[for*='1']:before { content: '\f107'; }
 label[for*='2']:before { content: '\f107'; }
 label[for*='3']:before { content: '\f107'; }
-label[for*='4']:before { content: '\f107'; }
+label[for*='4']:before { content: '\f107'; } */
 
 label:hover {
   color: #789;
@@ -72,12 +72,12 @@ input:checked + label {
   box-shadow: 1px 5px 5px silver;
 }
 
-#tab1:checked ~ #content1,
+/* #tab1:checked ~ #content1,
 #tab2:checked ~ #content2,
 #tab3:checked ~ #content3,
 #tab4:checked ~ #content4 {
   display: block;
-}
+} */
 
 
 @media screen and (max-width: 800px) {

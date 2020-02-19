@@ -1,0 +1,35 @@
+{
+    "Magnifiers": [
+        {
+            "name": "PowerMag",
+            "description": "The Optelec PowerMag+ Bright White LED Magnifier is fitted with a bright white LED, providing consistent high-contrast lighting and a wide field of view. Made with high-quality German optics by Schweizer, the aspheric lightweight magnifying lens is scratch-resistant and provides an accurate, sharply defined image. PowerMag+ magnifiers have been engineered for low energy consumption and long-lasting battery life. The user-friendly battery compartment was designed with an easy-slide ergonomic switch and attached cover that cannot be lost, great for those with limited dexterity.",
+            "image": "img/Mags/9504W.jpg",
+            "detailList": [{
+                "item1":"Standard light-emitting diode (LED) illumination",
+                "item2":"7750K light temperature produces a bright, clear light",
+                "item3":"Superior German optics by Schweizer, for an accurate, sharply defined image",
+                "item4":"Aspheric lightweight scratch-resistant acrylic magnifying lens",
+                "item5":"Easy-slide switch eliminates flickering light",
+                "item6":"Permanently attached hinged battery cover"
+            }]
+        },
+        {
+
+        },
+        {
+
+        }
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+}
