@@ -1,5 +1,5 @@
 {
-    "magnifiers": [
+    "professionalProducts": [
         {
             "name": "PowerMag",
             "description": "The Optelec PowerMag+ Bright White LED Magnifier is fitted with a bright white LED, providing consistent high-contrast lighting and a wide field of view. Made with high-quality German optics by Schweizer, the aspheric lightweight magnifying lens is scratch-resistant and provides an accurate, sharply defined image. PowerMag+ magnifiers have been engineered for low energy consumption and long-lasting battery life. The user-friendly battery compartment was designed with an easy-slide ergonomic switch and attached cover that cannot be lost, great for those with limited dexterity.",
@@ -37,6 +37,104 @@
                 {"item":"Raised switch provides audible feedback"},
                 {"item":"SMD LED light never needs replacing"},
                 {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "img/",
+            "detailList": [
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""},
+                {"item":""}
             ]
         }
     ]
