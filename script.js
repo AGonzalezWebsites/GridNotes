@@ -37,7 +37,7 @@ function addContent(e) {
                     newContent += '<p>'+responseObject.magnifiers[i].description+'</p>';
                     newContent += '<image class=\"images\" src=\"'+responseObject.magnifiers[i].image+'\">';
                     newContent += '<div class="detailsRight">';
-
+                    newContent += '<h1>Features</h1>';
                     for (var ii = 0; ii < responseObject.magnifiers[i].detailList.length; ii++) {
                         newContent += '<li>'+responseObject.magnifiers[i].detailList[ii].item+'</li>';
                     }
