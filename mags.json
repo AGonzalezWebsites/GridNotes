@@ -1,32 +1,45 @@
 {
-    "Magnifiers": [
+    "magnifiers": [
         {
             "name": "PowerMag",
             "description": "The Optelec PowerMag+ Bright White LED Magnifier is fitted with a bright white LED, providing consistent high-contrast lighting and a wide field of view. Made with high-quality German optics by Schweizer, the aspheric lightweight magnifying lens is scratch-resistant and provides an accurate, sharply defined image. PowerMag+ magnifiers have been engineered for low energy consumption and long-lasting battery life. The user-friendly battery compartment was designed with an easy-slide ergonomic switch and attached cover that cannot be lost, great for those with limited dexterity.",
             "image": "img/Mags/9504W.jpg",
-            "detailList": [{
-                "item1":"Standard light-emitting diode (LED) illumination",
-                "item2":"7750K light temperature produces a bright, clear light",
-                "item3":"Superior German optics by Schweizer, for an accurate, sharply defined image",
-                "item4":"Aspheric lightweight scratch-resistant acrylic magnifying lens",
-                "item5":"Easy-slide switch eliminates flickering light",
-                "item6":"Permanently attached hinged battery cover"
-            }]
+            "detailList": [
+                {"item":"Standard light-emitting diode (LED) illumination"},
+                {"item":"7750K light temperature produces a bright, clear light"},
+                {"item":"Superior German optics by Schweizer, for an accurate, sharply defined image"},
+                {"item":"Aspheric lightweight scratch-resistant acrylic magnifying lens"},
+                {"item":"Easy-slide switch eliminates flickering light"},
+                {"item":"Permanently attached hinged battery cover"}
+            ]
         },
         {
-
+            "name": "Schweizer Okolux",
+            "description": "The Schweizer OKOLUX Plus Mobil handheld magnifier features SMD LED lighting provides a bright, evenly-dispersed and high contrast light. The aspheric lightweight magnifying lens is made of acrylic, scratch-resistant glass. The lens provides a sharply defined, clear image that is further enhanced by the SMD LED lighting. The OKOLUX Plus Mobil line of handheld magnifiers have been engineered for low energy consumption and a long-lasting battery life. The battery compartment was designed for easy battery replacement.",
+            "image": "img/Mags/58073.jpg",
+            "detailList": [
+                {"item":"Four chip surface-mounted light-emitting diode SMD LED illumination"},
+                {"item":"4500K light temperature produces a very bright, evenly dispersed white clear light"},
+                {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"},
+                {"item":"Easy-slide switch eliminates flickering light"},
+                {"item":"Permanently attached hinged battery cover"}
+            ]
         },
         {
-
+            "name": "ERGO-Lux iMobil",
+            "description": "Schweizer ERGO-Lux iMobil–the lifestyle magnifier features inductive charging. In addition to two brightness levels, the key advantage of this new magnifier lies in its wireless charging capability, which eliminates the need to replace batteries. Made with high-quality German optics by Schweizer, this aspheric, lightweight magnifying lens is scratch-resistant, and provides an accurate, sharply-defined image. The SMD LED light provides a bright, evenly dispersed and high contrast light. The ergonomic design places emphasis on comfort and ease of use by using a rubberized grip for the thumb and forefinger and a larger, rounded handle to support the ball of the hand. The easy-glide switch provides audible and tactile feedback and eliminates flickering.",
+            "image": "img/Mags/5845i.jpg",
+            "detailList": [
+                {"item":"Wireless charging–no battery replacement, no cable inserted into the magnifier"},
+                {"item":"6500K light temperature produces a very bright, evenly dispersed white light"},
+                {"item":"Ergonomically designed handle to support the ball of the hand, and soft-touch zone with anti-slip guard for thumb and index finger"},
+                {"item":"Two brightness levels available due to Multi-Power boost switch"},
+                {"item":"Raised switch provides audible feedback"},
+                {"item":"SMD LED light never needs replacing"},
+                {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"}
+            ]
         }
     ]
-
-
-
-
-
-
-
 
 
 

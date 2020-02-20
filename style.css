@@ -411,18 +411,33 @@ a {
 
 .images:active {
   transform: scale(1.7); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-margin: 10% 0 10% 20%;
+    margin: 10% 0 10% 20%;
     transition: 1s; 
+}
+
+
+#powerMagButton {
+    font-size: 18px;
+    font-family: 'Muli', sans-serif;
+    color: white;
+    background: rgba(28,48,122,1);
+    padding: 5px;
+    margin: 5px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+#powerMagButton:hover {
+    background-color: white;
+    color: black;
+    margin: 3px 5px;
+    height: 54px;
+    cursor: pointer;
 }
 
 .powerMagContainer {
     margin: 0 0 11%;
     
-}
-
-#powerMag {
-    width: 100%;
-    height: 20vw;
 }
 
 .detailsRight {
@@ -448,6 +463,11 @@ margin: 10% 0 10% 20%;
 
 
 
+
+
+
+
+    
 
 
 @media only screen and (max-width: 1200px) {
