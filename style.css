@@ -77,6 +77,24 @@ a {
   to{ bottom:0; opacity:1 }
 }
 
+.animate-top {
+  position: relative;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: .3s;
+  animation-name: animatetop;
+  animation-duration: .3s
+}
+
+@-webkit-keyframes animatetop {
+  from { top:-100px; opacity:0 } 
+  to { top:0px; opacity:1 }
+}
+
+@keyframes animatetop { 
+  from{ top:-100px; opacity:0 } 
+  to{ top:0; opacity:1 }
+}
+
 #myDiv {
   display: none;
   text-align: center;
@@ -249,12 +267,14 @@ a {
 
 .links li:hover {
     background-color: #2b4a7c;
+    cursor: pointer;
 }
 
 .links li {
     text-align: center;
     border-top: 1px ridge silver;
     padding: 10px 0px;
+    color: white;
 }
 
 .links li:after {
@@ -334,6 +354,7 @@ a {
 .item2 li:hover {
     border: 1px outset green;
     background-color: #ddffe3;
+    cursor: pointer;
 }
 
 
@@ -375,7 +396,7 @@ a {
     font-size: 30px;
     font-family: 'PT Serif', serif;
     padding: 0 20px 0 20px;
-    margin: 1%;
+    margin: 5px;
     background: rgba(28,48,122,1);
     border-radius: 5px;
     color: white;
@@ -422,7 +443,7 @@ a {
     color: white;
     background: rgba(28,48,122,1);
     padding: 5px 10px;
-    margin: 5px 10px 15px 10px;
+    margin: 15px 10px 10px 10px;
     height: 50px;
     border-radius: 5px;
 }
@@ -436,12 +457,14 @@ a {
 }
 
 .contentBox {
-    margin: 0 0 11%;
-    
+    margin: 5px 20px 0 20px;
+    padding-top: 20px;
+    border-top: 2px dotted silver;
 }
 
 .detailsRight {
     position: relative;
+    text-align: left;
     top: 10px;
     width: 64.9%;
     padding: 3% 0 0 0;
@@ -516,12 +539,15 @@ a {
     padding: 5px 5px;
     border-radius: 5px;
     text-align: center;
+    font-size: 30px;
 }
 
 .links li {
     text-align: center;
     border-top: 1px ridge silver;
     padding: 1% 0px;
+    color: white;
+    font-size: 30px;
 }
     
     
@@ -543,6 +569,7 @@ a {
     text-align: center;
     border-bottom: 1px solid rgba(28,48,122,1);
     color: white;
+    font-size: 30px;
 }
   
 .links2 li {
@@ -554,6 +581,7 @@ a {
     background-color: white;
     border-radius: 5px;
     overflow: hidden;
+    font-size: 30px;
 }
 
 .links2 li {
@@ -595,7 +623,7 @@ a {
 }
     
 .item3 h1 {
-    font-size: 3vw;
+    font-size: 30px;
     font-family: 'PT Serif', serif;
     padding: 0 20px 0 20px;
     margin: 1%;
@@ -605,7 +633,7 @@ a {
 }
 
 .item3 p {
-    font-size: 2vw;
+    font-size: 15px;
     font-family: 'Muli', sans-serif;
     line-height: 170%;
     padding: 0 20px 0 20px;
@@ -613,7 +641,7 @@ a {
 
 .item3 li {
     list-style-type: none;
-    font-size: 2vw;
+    font-size: 15px;
     font-family: 'Muli', sans-serif;
     padding: 4% 20px 0 20px;
 }    

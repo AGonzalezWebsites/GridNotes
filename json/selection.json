@@ -1,0 +1,13 @@
+{
+    "selections": [{
+            "name": "Professional Products",
+            "SelectionsList": [
+                {"item":"Hand-Held Magnifiers"},
+                {"item":"Spectacles"},
+                {"item":"Telescopes"},
+                {"item":"Lamps"}
+            ]
+        }]
+
+
+}
