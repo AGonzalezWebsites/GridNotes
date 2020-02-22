@@ -1,8 +1,6 @@
 // var magButton = document.getElementById('powerMagButton');
 // magButton.addEventListener('click', addContent);
 
-
-
 document.querySelectorAll('#item1Spacing').forEach(item => {
     item.addEventListener('click', addSelection)
 })
@@ -102,7 +100,7 @@ function selectionIcons(e) {
         }
     };
 
-    xhr.open('GET', './json/mags.json', true)
+    xhr.open('GET', './json/products.json', true)
     xhr.send(null);
 }
 
@@ -140,6 +138,6 @@ function addContent(e) {
             document.querySelector('.contentBox').innerHTML = newContent;
         }
     };
-    xhr.open('GET', './json/mags.json', true);
+    xhr.open('GET', './json/products.json', true);
     xhr.send(null);
 }

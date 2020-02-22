@@ -150,7 +150,98 @@
                 }
             
             ]
-        }
+        },
+        {"name": "Desktop Video Magnifiers",
+        "listProducts": [
+                {
+                    "name": "Topaz EZ HD",
+                    "description": "Brilliant Magnified Images with Easy-to-Use Controls. TOPAZ EZ HD is simply uncomplicated magnification. This economical video magnifier emphasizes ease of use with single-function controls and a high-definition camera. The HD camera provides superior image quality, a wider field of view, and a lower magnification range.",
+                    "image": "img/videoMags/topazEzHd.jpg",
+                    "detailList": [
+                        {"item":"Magnification to 64 times (on a 24-inch monitor)"},
+                        {"item":"Choice of monitor sizes: widescreen 20-inch or 24-inch"},
+                        {"item":"Custom high-contrast color modes"},
+                        {"item":"Color-boost contrast"},
+                        {"item":"Brightly-colored control buttons"},
+                        {"item":"Over 8 inches of working space to write and work comfortably"},
+                        {"item":"Comfortable swivel screen"},
+                        {"item":"LED lighting reduces glare"},
+                        {"item":"One-touch button to freeze images"}
+                    ]
+                },
+                {
+                    "name": "Topaz HD",
+                    "description": "The TOPAZ HD video magnifier is the perfect choice for reading and performing daily tasks, with a wide magnification range, gliding reading table, lots of workspace under the camera, LED lighting, and unique features like Find and Freeze Frame.",
+                    "image": "img/videoMags/topazHD.jpg",
+                    "detailList": [
+                        {"item":"Magnification to 64 times (on a 24-inch monitor)"},
+                        {"item":"Choice of widescreen 20-inch, 22-inch, or 24-inch monitor"},
+                        {"item":"Auto-focus camera"},
+                        {"item":"Accurate colors and even illumination with no glare to minimize fatigue"},
+                        {"item":"33 screen color modes including high-contrast full color, true-color, and grayscale to fit your viewing needs"},
+                        {"item":"Over 8 inches of working space to write and work comfortably"},
+                        {"item":"Unique can and bottle holder holds round objects steady"},
+                        {"item":"Extra-wide reading table to smoothly glide large books and objects under the camera"}
+                    ]
+                },
+                {
+                    "name": "Topaz XL HD",
+                    "description": "The ultimate desktop video magnifier, TOPAZ XL HD provides high-definition magnification with the sharpest image and the crispest text, allowing for low magnification levels that fit more text on the screen for faster reading and better comprehension with less fatigue. With its extra features and computer connectivity, TOPAZ XL HD is the video magnifier of choice for those looking for maximum productivity in work and school environments.",
+                    "image": "img/videoMags/topazXlHd.jpg",
+                    "detailList": [
+                        {"item":"All the features of our standard TOPAZ HD and TOPAZ EZ HD models PLUS…"},
+                        {"item":"High-definition camera to provide a crisp image that is easy to read at all magnification levels"},
+                        {"item":"1080p resolution"},
+                        {"item":"Widest field of view to fit more text on the screen at once, for greater productivity with less fatigue"},
+                        {"item":"Position Locator to pinpoint the area you see on the monitor"},
+                        {"item":"Use with GEM® and OpenBook® Scanning and Reading Software to send the image from TOPAZ XL HD to your computer to read it aloud"}
+                        
+                    ]
+                },
+                {
+                    "name": "ClearView C Flex HD Speech",
+                    "description": "The new Optelec ClearView C Flex with Speech is a unique space saving desktop video magnifier that is designed to improve your reading experience. Select your preferred reading voice and sit back, relax, and listen to documents as they are read aloud. Combining a clear voice with magnification or high contrast makes reading so much easier.",
+                    "image": "img/videoMags/clearViewCFlex.jpg",
+                    "detailList": [
+                        {"item":"Continuous magnification: 1.5X – 75X (optional: up to 170X)(On a 24 Inch Monitor)"},
+                        {"item":"Superior High Definition 1080p video processing for ultra sharp and vivid images"},
+                        {"item":"Point and Read functionality: intuitive touch interface"},
+                        {"item":"Over 60 reading voices in 30 languages"},
+                        {"item":"Saving and opening documents on a SD card or USB stick"},
+                        {"item":"Optional: easy-glide reading table with X and Y directional movement (see ‘Accessories’)"},
+                        {"item":"Integrated lighting for even illumination, and elimination of reflections when reading glossy documents"}
+                    ]
+                }
+                
+            ]
+        },
+        {"name": "Transportable Video Magnifiers",
+            "listProducts": [
+                    {
+                        "name": "Video1",
+                        "description": "Optelec's PowerSpecs line of spectacles are made with durable frames and superior optics. Refined in the USA, these spectacles include a two-year warranty and are delivered with a hard case.",
+                        "image": "img/spectacles/powerSpecs.jpg",
+                        "detailList": [
+                            {"item":"Affordable lenses with the highest abrasion/scratch resistance of any uncoated optical plastic."},
+                            {"item":"Prismatic spectacles that are ready to dispense and ideal for eccentric viewing"},
+                            {"item":"Comes in either a metal or plastic frame"},
+                            {"item":"Sizes available range from +4 OU to +12 OU (+12 only in metal)"}
+                        ]
+                    },
+                    {
+                        "name": "Video2",
+                        "description": "ImproVision ProShield Fit-Over and Wrap-Around absorptive spectacles are available in a variety of blue blocker filtered lenses. With 100% protection against UV-A, B, and C radiation, these spectacles offer the best in eye-protection with a comfortable fit. ",
+                        "image": "img/spectacles/absorptiveLense.jpg",
+                        "detailList": [
+                            {"item":"Four chip surface-mounted light-emitting diode SMD LED illumination"},
+                            {"item":"4500K light temperature produces a very bright, evenly dispersed white clear light"},
+                            {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"},
+                            {"item":"Easy-slide switch eliminates flickering light"},
+                            {"item":"Permanently attached hinged battery cover"}
+                        ]
+                    }
+                ]
+            }
 
 
 

@@ -425,7 +425,7 @@ a {
     padding: 0 0 0 0;
     border: .3vw inset rgba(28,48,122,1);
     border-radius: 5px;
-    margin: 3vw 1vw 1vw 1vw;
+    margin: 30px 1vw 1vw 1vw;
     overflow: hidden;
     cursor: zoom-in;
 }
@@ -467,7 +467,7 @@ a {
     text-align: left;
     top: 10px;
     width: 64.9%;
-    padding: 3% 0 0 0;
+    padding: 30px 0 0 0;
     display: inline-block;
 }
 

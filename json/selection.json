@@ -1,5 +1,6 @@
 {
-    "selections": [{
+    "selections": [
+        {
             "name": "Professional Products",
             "SelectionsList": [
                 {"item":"Hand-Held Magnifiers"},
@@ -7,7 +8,34 @@
                 {"item":"Telescopes"},
                 {"item":"Lamps"}
             ]
-        }]
+        },
+        {
+            "name": "Hardware & Software",
+            "SelectionsList": [
+                {"item":"Desktop Video Magnifiers"},
+                {"item":"Transportable Video Magnifiers"},
+                {"item":"Hand-held Video Magnifiers"},
+                {"item":"Scanning and Reading Solutions"},
+                {"item":"Braille Solutions"},
+                {"item":"Software"}
+            ]
+        },
+        {
+            "name": "External Links",
+            "SelectionsList": [
+                {"item":"Freedom Scientific"},
+                {"item":"Optelec"},
+                {"item":"Enhanced Vision"},
+                {"item":"AI Squared"}
+            ]
+        }
+    
+    
+    
+    
+    
+    
+    ]
 
 
 }
