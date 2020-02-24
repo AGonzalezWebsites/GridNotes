@@ -75,79 +75,56 @@
         {"name": "Telescopes",
         "listProducts": [
                 {
-                    "name": "Scope1",
-                    "description": "Optelec's PowerSpecs line of spectacles are made with durable frames and superior optics. Refined in the USA, these spectacles include a two-year warranty and are delivered with a hard case.",
-                    "image": "img/spectacles/powerSpecs.jpg",
+                    "name": "PowerScope Handheld Monocular",
+                    "description": "The Optelec PowerScope Handheld Monocular Telescope provides exceptional brightness and remarkably crisp optics for those with low vision or increased viewing needs. The Keplerian handheld monocular is compact and lightweight, particularly useful at museums, sporting events and for reading signs. The focal barrel rotation is smooth and fluid, allowing you to easily set your ideal viewing distance. Due to the new design of the optics, the monocular telescope can be used for both distance and near focus viewing.",
+                    "image": "img/spectacles/powerscopeHandHeldMonocular.jpg",
                     "detailList": [
-                        {"item":"Affordable lenses with the highest abrasion/scratch resistance of any uncoated optical plastic."},
-                        {"item":"Prismatic spectacles that are ready to dispense and ideal for eccentric viewing"},
-                        {"item":"Comes in either a metal or plastic frame"},
-                        {"item":"Sizes available range from +4 OU to +12 OU (+12 only in metal)"}
+                        {"item":"Includes a protective case, detachable neck strap"},
+                        {"item":"Multiple options ranging from 2.5x to 10x"},
+                        {"item":"Comes with a limited-lifetime warranty"}
                     ]
                 },
                 {
-                    "name": "Scope2",
-                    "description": "ImproVision ProShield Fit-Over and Wrap-Around absorptive spectacles are available in a variety of blue blocker filtered lenses. With 100% protection against UV-A, B, and C radiation, these spectacles offer the best in eye-protection with a comfortable fit. ",
-                    "image": "img/spectacles/absorptiveLense.jpg",
+                    "name": "Specwell Handheld Monocular",
+                    "description": "The Specwell Handheld Monocular Telescope features crisp optics in a sturdy housing case, with dual purpose optics that work well for both distance and near viewing capabilities. The optical quality lenses provide crisp and clear optics to see images in great detail and are great for outdoor use.",
+                    "image": "img/spectacles/specwellHandHeldMonocular.jpg",
                     "detailList": [
-                        {"item":"Four chip surface-mounted light-emitting diode SMD LED illumination"},
-                        {"item":"4500K light temperature produces a very bright, evenly dispersed white clear light"},
-                        {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"},
-                        {"item":"Easy-slide switch eliminates flickering light"},
-                        {"item":"Permanently attached hinged battery cover"}
+                        {"item":"Includes a protective case, detachable neck strap"},
+                        {"item":"Multiple options ranging from 3.8x to 10x"},
+                        {"item":"Comes with a limited one-year warranty"}
+                    ]
+                },
+                {
+                    "name": "Specwell Rubber Handheld Monocular",
+                    "description": "The Specwell Handheld Monocular Telescope features crisp optics in a protective rubber casing, with dual purpose optics that work well for both distance and near viewing capabilities. The optical quality lenses provide crisp and clear optics to see images in great detail, and are great for outdoor use.",
+                    "image": "img/spectacles/specwellRubberHandHeldMonocular.jpg",
+                    "detailList": [
+                        {"item":"Includes a protective case, detachable neck strap"},
+                        {"item":"Multiple options ranging from 8x to 10x"},
+                        {"item":"Comes with a limited one-year warranty"}
+                    ]
+                },
+                {
+                    "name": "PowerTV Binocular",
+                    "description": "Optelec PowerTV Binocular Glasses are lightweight and adjustable and provide 2X magnification, ideal for distance viewing. These comfortable glasses are perfect for watching television, movies, sporting events or other activities. Using a fully adjustable twin-lens design to set the desired viewing distance, the easy-to-use glasses will maximize the size of your television screen and provide complete enjoyment of multiple activities.",
+                    "image": "img/spectacles/PowerTVBinoculars.jpg",
+                    "detailList": [
+                        {"item":"Optimal focal distance of 4 ft"},
+                        {"item":"Weighs only 2.5oz"},
+                        {"item":"Includes protective carrying case"},
+                        {"item":"Includes a limited one-year warranty"}
+                    ]
+                },
+                {
+                    "name": "Power Series Binoculars",
+                    "description": "Optelec PowerSeries 2.8X Spectacle Binoculars are perfect for watching television, movies, sporting events or other outdoor activities. Using a binocular telescope system, the Optelec PowerSeries Spectacle Binoculars help to maximize the size of the television screen and other objects. The telescope binoculars can easily adjust and the hands-free frame allows for complete enjoyment of multiple activities.",
+                    "image": "img/spectacles/powerSeriesBinoculars.jpg",
+                    "detailList": [
+                        {"item":"Includes a limited-lifetime warranty"},
+                        {"item":"Optelec PowerSeries 2.8X Spectacle Binoculars should not be used while operating a motor vehicle"}
                     ]
                 }
-            
-            ]
-        },
-        {"name": "Lamps",
-        "listProducts": [
-                {
-                    "name": "Lamp1",
-                    "description": "Optelec's PowerSpecs line of spectacles are made with durable frames and superior optics. Refined in the USA, these spectacles include a two-year warranty and are delivered with a hard case.",
-                    "image": "img/spectacles/powerSpecs.jpg",
-                    "detailList": [
-                        {"item":"Affordable lenses with the highest abrasion/scratch resistance of any uncoated optical plastic."},
-                        {"item":"Prismatic spectacles that are ready to dispense and ideal for eccentric viewing"},
-                        {"item":"Comes in either a metal or plastic frame"},
-                        {"item":"Sizes available range from +4 OU to +12 OU (+12 only in metal)"}
-                    ]
-                },
-                {
-                    "name": "Lamp2",
-                    "description": "ImproVision ProShield Fit-Over and Wrap-Around absorptive spectacles are available in a variety of blue blocker filtered lenses. With 100% protection against UV-A, B, and C radiation, these spectacles offer the best in eye-protection with a comfortable fit. ",
-                    "image": "img/spectacles/absorptiveLense.jpg",
-                    "detailList": [
-                        {"item":"Four chip surface-mounted light-emitting diode SMD LED illumination"},
-                        {"item":"4500K light temperature produces a very bright, evenly dispersed white clear light"},
-                        {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"},
-                        {"item":"Easy-slide switch eliminates flickering light"},
-                        {"item":"Permanently attached hinged battery cover"}
-                    ]
-                },
-                {
-                    "name": "Lamp3",
-                    "description": "Optelec's PowerSpecs line of spectacles are made with durable frames and superior optics. Refined in the USA, these spectacles include a two-year warranty and are delivered with a hard case.",
-                    "image": "img/spectacles/powerSpecs.jpg",
-                    "detailList": [
-                        {"item":"Affordable lenses with the highest abrasion/scratch resistance of any uncoated optical plastic."},
-                        {"item":"Prismatic spectacles that are ready to dispense and ideal for eccentric viewing"},
-                        {"item":"Comes in either a metal or plastic frame"},
-                        {"item":"Sizes available range from +4 OU to +12 OU (+12 only in metal)"}
-                    ]
-                },
-                {
-                    "name": "Lamp4",
-                    "description": "ImproVision ProShield Fit-Over and Wrap-Around absorptive spectacles are available in a variety of blue blocker filtered lenses. With 100% protection against UV-A, B, and C radiation, these spectacles offer the best in eye-protection with a comfortable fit. ",
-                    "image": "img/spectacles/absorptiveLense.jpg",
-                    "detailList": [
-                        {"item":"Four chip surface-mounted light-emitting diode SMD LED illumination"},
-                        {"item":"4500K light temperature produces a very bright, evenly dispersed white clear light"},
-                        {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"},
-                        {"item":"Easy-slide switch eliminates flickering light"},
-                        {"item":"Permanently attached hinged battery cover"}
-                    ]
-                }
+                
             
             ]
         },
