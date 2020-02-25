@@ -195,26 +195,36 @@
         {"name": "Transportable Video Magnifiers",
             "listProducts": [
                     {
-                        "name": "Video1",
-                        "description": "Optelec's PowerSpecs line of spectacles are made with durable frames and superior optics. Refined in the USA, these spectacles include a two-year warranty and are delivered with a hard case.",
-                        "image": "img/spectacles/powerSpecs.jpg",
+                        "name": "TOPAZ® PHD",
+                        "description": "The lightweight TOPAZ® PHD offers the comfort and productivity features of a desktop video magnifier but folds away like a laptop. With auto-focus, a wide magnification range, intuitive controls, six default and 27 customizable high-contrast color modes, and adjustable reading lines and masks, the new TOPAZ PHD offers the freedom to independently read and view the details that matter in the home, office, classroom, or on the go.",
+                        "image": "img/videoMags/TOPAZPHD.jpg",
                         "detailList": [
-                            {"item":"Affordable lenses with the highest abrasion/scratch resistance of any uncoated optical plastic."},
-                            {"item":"Prismatic spectacles that are ready to dispense and ideal for eccentric viewing"},
-                            {"item":"Comes in either a metal or plastic frame"},
-                            {"item":"Sizes available range from +4 OU to +12 OU (+12 only in metal)"}
+                            {"item":"Brilliant image quality that is easy to read at all magnification levels with magnification to 31 times (on a 15-inch monitor; up to 24 times on a 12-inch monitor)"},
+                            {"item":"Lightweight, collapsible, portable design"},
+                            {"item":"Choice of monitor sizes: 12-inch or 15-inch"},
+                            {"item":"Auto-focus camera"},
+                            {"item":"Six default and 27 configurable screen color modes for a total of 33"},
+                            {"item":"Document reading and self-viewing modes"},
+                            {"item":"Over 9 inches of working space to write and work comfortably"},
+                            {"item":"Adjustable reference lines and masks to easily keep your place and reduce glare"},
+                            {"item":"Find function to quickly zoom out, locate the next area of interest, and zoom back in"},
+                            {"item":"SD Card slot to quickly store images"},
+                            {"item":"USB PC connectivity when used with GEM® software"}
                         ]
                     },
                     {
-                        "name": "Video2",
-                        "description": "ImproVision ProShield Fit-Over and Wrap-Around absorptive spectacles are available in a variety of blue blocker filtered lenses. With 100% protection against UV-A, B, and C radiation, these spectacles offer the best in eye-protection with a comfortable fit. ",
-                        "image": "img/spectacles/absorptiveLense.jpg",
+                        "name": "ClearView GO",
+                        "description": "ClearView GO offers the same reading comfort, ease of use, and functionality as a desktop video magnifier, but in a compact and foldable design. It is the ideal solution for people who need magnification at different locations. With ClearView GO, you can comfortably read text and view objects, at home, office, classroom, or on the go. Its foldable design makes it extremely easy to take the ClearView GO with you or to store it when you do not need it.",
+                        "image": "img/videoMags/clearviewGO.jpg",
                         "detailList": [
-                            {"item":"Four chip surface-mounted light-emitting diode SMD LED illumination"},
-                            {"item":"4500K light temperature produces a very bright, evenly dispersed white clear light"},
-                            {"item":"Aspheric lightweight magnifying lens provides a sharply defined image"},
-                            {"item":"Easy-slide switch eliminates flickering light"},
-                            {"item":"Permanently attached hinged battery cover"}
+                            {"item":"Full HD – 1080p with autofocus"},
+                            {"item":"Magnificaton range from 2.0x to 32x"},
+                            {"item":"Snapshot mode up to 170x"},
+                            {"item":"Large 15.6” screen that easily folds away"},
+                            {"item":"Read down pages without moving reading material thanks to the moveable camera"},
+                            {"item":"Connect to TV screen for even bigger image with HDMI"},
+                            {"item":"Lightweight: 10.36 lbs / 4.7 kg"},
+                            {"item":"Carrying case included"}
                         ]
                     }
                 ]
