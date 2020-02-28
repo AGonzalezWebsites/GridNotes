@@ -5,7 +5,6 @@ document.querySelectorAll('#item1Spacing').forEach(item => {
     item.addEventListener('click', addSelection)
 })
 
-
 var myVar;
 function myFunction() {
   myVar = setTimeout(showPage, 1000);
@@ -15,7 +14,6 @@ function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("myDiv").style.display = "inline-table";
 }
-
 
 //adds selection list
 function addSelection(e) {
@@ -58,7 +56,7 @@ function addSelection(e) {
     xhr.send(null);
 }
 
-//variable creates to carry over icon clicked to addContent(e)
+//variable created to carry over icon clicked to addContent(e)
 var itemNumber;
 //adds selection Icons
 function selectionIcons(e) {
