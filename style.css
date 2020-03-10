@@ -95,10 +95,7 @@ a {
   to{ top:0; opacity:1 }
 }
 
-#myDiv {
-  display: none;
-  text-align: center;
-}
+
 
 
 
@@ -150,7 +147,10 @@ a {
 	grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 2;
-    border-bottom: 1px dotted silver;
+    display: flex;
+    justify-content: center;
+    background: #e8c658;
+    border-bottom: 1px dotted rgba(28,48,122,1);
     box-shadow: -1px 10px 20px #888888;
     overflow: hidden;
 }
@@ -161,6 +161,10 @@ a {
     font-size: 20px;
     font-weight: bold;
     font-family: 'EB Garamond', serif;
+}
+
+.user p:hover {
+    cursor: pointer;
 }
     
     /* User END */
@@ -307,7 +311,7 @@ a {
     background: rgba(28,48,122,1);
     position: relative;
     padding: 20px 5px 20px 5px;
-    margin: 55px 7% 15px 7%;
+    margin: 10px 7% 15px 7%;
     border-radius: 5px;
     text-align: center;
     border-bottom: 1px solid rgba(28,48,122,1);

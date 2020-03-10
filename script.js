@@ -5,16 +5,6 @@ document.querySelectorAll('#item1Spacing').forEach(item => {
     item.addEventListener('click', addSelection)
 })
 
-var myVar;
-function myFunction() {
-  myVar = setTimeout(showPage, 1000);
-}
-
-function showPage() {
-  document.getElementById("loader").style.display = "none";
-  document.getElementById("myDiv").style.display = "inline-table";
-}
-
 //adds selection list
 function addSelection(e) {
     xhr = new XMLHttpRequest();
