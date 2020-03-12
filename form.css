@@ -14,7 +14,7 @@
 }
 
 .initialContainer input,.initialContainer h1,.initialContainer button {
-    margin: 20px;
+    margin: 0px 20px 40px 40px;
     width: 400px;
     height: 40px;
     border-radius: 5px;
@@ -22,7 +22,7 @@
 }
 
 .initialContainer input:hover {
-    margin: 15px 20px;
+    margin: 0px 20px 30px 20px;
     width: 400px;
     height: 50px;
     border-radius: 5px;
@@ -43,6 +43,4 @@
     text-align: center;
     width: 400px;
 }
-
-
 

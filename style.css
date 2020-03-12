@@ -149,24 +149,77 @@ a {
     grid-row-end: 2;
     display: flex;
     justify-content: center;
-    background: #e8c658;
     border-bottom: 1px dotted rgba(28,48,122,1);
     box-shadow: -1px 10px 20px #888888;
-    overflow: hidden;
 }
 
-.user p {
+
+
+.user button {
     margin: 0px;
-    padding: 2px;
-    font-size: 20px;
-    font-weight: bold;
+    padding: 0px;
+    width: 100%;
+    font-size: 18px;
     font-family: 'EB Garamond', serif;
 }
 
 .user p:hover {
     cursor: pointer;
 }
-    
+
+.userInfoContainer {
+    display: none;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.userInfoContainer:hover {
+    cursor: pointer;
+}
+
+.userInfoTitle{
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.userInfoTitle{
+    cursor: pointer;
+}
+
+.userInfoTitle>h1{
+    display: inline;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.userInfoTitle>i{
+    display: inline;
+    font-size: 20px;
+    margin: 5px;
+    padding: 0px;
+}
+
+.userInfoContent{
+    transition: .5s ease-in;
+    position: absolute;
+    display: none;
+    height: 0px;
+    width: 98%;
+    overflow: hidden;
+    background: white;
+    top: 30px;
+    left: 0px;
+    font-size: 17px;
+    line-height: 1.6em;
+    margin: 0px;
+    padding: 0px;
+    z-index: 99;
+}
+
     /* User END */
 
 

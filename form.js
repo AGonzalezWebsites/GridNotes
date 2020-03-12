@@ -9,6 +9,8 @@ const form = document.getElementById('form');
 const openForm = document.getElementById('openForm');
 const formSkip = document.getElementById('formSkip');
 const errorElement = document.getElementById('error');
+const userInfoContainer = document.querySelector('.userInfoContainer');
+const userInfoContent = document.querySelector('.userInfoContent');
 
 openForm.addEventListener('click', function(){
     console.log("open form");
@@ -70,13 +72,33 @@ form.addEventListener('submit', function(e){
 function formsubmitted(name, animal, email, password) {
     console.log(name, animal, email, password)
     var user = document.querySelector('.user');
-    user.childNodes[0].innerText = 'Logged In';
-
-    console.log(user)
-
+    //remove sign up button
+    document.getElementById('openForm').style.display = 'none';
 
     document.querySelector('.initialContainer').style.opacity = '0';
     setTimeout(function(){document.querySelector('.initialContainer').style.display = 'none';}, 500)
-    
+
+
+    //Add user details
+
+    userInfoContainer.style.display = 'flex';
+    userInfoContent.innerHTML = "<b>Email:</b> "+ email+"<br><b>Spirit Animal:</b> "+animal+"<br><b>Password:</b> "+ password;
+    userInfoContent.style.display = "inline";
+    userInfoContent.style.height = "0px";
 }
+
+var toggle = "closed";
+document.querySelector('.userInfoTitle').addEventListener('click', function(){
+    if (toggle === "closed") {
+        userInfoContent.style.height = "auto";
+        toggle = "open";
+        console.log(toggle)
+        console.log("opened")
+    } else if (toggle === "open") {
+        userInfoContent.style.height = "0px";
+        toggle = "closed";
+        console.log(toggle)
+        console.log("closed")
+    }
+})
 
