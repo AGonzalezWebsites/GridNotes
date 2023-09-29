@@ -482,6 +482,10 @@ a {
     padding: 3% 20px 0 20px;
 }
 
+.item3 li:last-child {
+    margin-bottom: 3%;
+}
+
 .images {
     display: inline-table;
     position: relative;
@@ -515,11 +519,11 @@ a {
 }
 
 #powerMagButton:hover {
+    cursor: pointer;
     background-color: white;
     color: black;
     margin: 3px 10px;
     height: 54px;
-    cursor: pointer;
 }
 
 .contentBox {
@@ -710,8 +714,7 @@ a {
     font-size: 15px;
     font-family: 'Muli', sans-serif;
     padding: 4% 20px 0 20px;
-}    
-
+} 
 
    
 }
