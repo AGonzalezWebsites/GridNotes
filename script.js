@@ -129,3 +129,16 @@ function addContent(e) {
     xhr.open('GET', './json/products.json', true);
     xhr.send(null);
 }
+
+window.addEventListener(`click`, (e) => {
+    if (e.target.className) {
+        if (e.target.classList.contains(`images`)) {
+            expandPhoto(e.target)
+        }
+    }
+})
+
+const expandPhoto = (el) => {
+    if (!el.classList.contains(`zoomImage`)) el.classList.add(`zoomImage`)
+    else el.classList.remove(`zoomImage`)
+}
